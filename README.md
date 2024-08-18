@@ -1,4 +1,10 @@
 # Medical-Chatbot
+A `Langchain` and `Pinecone` based model that reads a Medicine-related encyclopedia and answers any prompt given by the user
+
+## Authors
+- Rudra Panch
+- Raul Om Deepak
+- Rachit Kumar
 
 Install the following packages, in case they aren't already installed
 
